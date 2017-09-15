@@ -4,6 +4,12 @@ html {
     box-sizing: border-box
 }
 
+.fit {
+  margin: 0;
+  width: 100%;
+  background-repeat: no-repeat;
+}
+
 *,
 *:before,
 *:after {
